@@ -1,5 +1,4 @@
 package tudelft.echo;
-
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
